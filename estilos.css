@@ -1,0 +1,14 @@
+/*estilos.css*/
+
+h1 {
+  color: red;
+  border-bottom: 2px solid red;
+  text-align: center;
+}
+
+p {
+  margin: 1em 4em;
+}
+h2 {
+  color: blue;
+}
