@@ -12,3 +12,8 @@ p {
 h2 {
   color: blue;
 }
+
+img {
+  float: left;
+  margin-right: 2em;
+}
